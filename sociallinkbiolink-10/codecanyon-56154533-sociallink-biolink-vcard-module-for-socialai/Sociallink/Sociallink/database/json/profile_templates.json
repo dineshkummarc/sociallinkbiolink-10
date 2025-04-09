@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "template": "v1",
+    "preview": "/uploads/v1.png",
+    "customization": {
+      "bg_colors": ["#111827", "#111827"],
+      "direction": "180",
+      "title_color": "#ffffff",
+      "subtitle_color": "#cccccc",
+      "icon_color": "#ffffff",
+      "icon_bg": "#111827",
+      "link_color": "#ffffff",
+      "link_bg": "#374151",
+      "card_bg": "#111827"
+    }
+  },
+  {
+    "id": "2",
+    "template": "v2",
+    "preview": "/uploads/v2.png",
+    "customization": {
+      "bg_colors": ["#98f5e3", "#127971"],
+      "direction": "180",
+      "title_color": "#1f2937",
+      "subtitle_color": "#3f6b9e",
+      "icon_color": "#ffffff",
+      "icon_bg": "#0d9488",
+      "link_color": "#394252",
+      "link_bg": "#ffffff",
+      "card_bg": "#92ded2"
+    }
+  },
+  {
+    "id": "3",
+    "template": "v3",
+    "preview": "/uploads/v3.png",
+    "customization": {
+      "bg_colors": ["#ffdab9", "#fff4e0"],
+      "direction": "180",
+      "title_color": "#1f2937",
+      "subtitle_color": "#d57041",
+      "icon_color": "#ea580c",
+      "icon_bg": "#fff7f0",
+      "link_color": "#374151",
+      "link_bg": "#fff7f0",
+      "card_bg": "#bfad9b"
+    }
+  },
+  {
+    "id": "4",
+    "template": "v4",
+    "preview": "/uploads/v4.png",
+    "customization": {
+      "bg_colors": ["#ec4898", "#ef4444"],
+      "direction": "90",
+      "title_color": "#000000",
+      "subtitle_color": "#4b5563",
+      "icon_color": "#ffffff",
+      "icon_bg": "#ef4444",
+      "link_color": "#000000",
+      "link_bg": "#ffffff",
+      "card_bg": "#ffffff"
+    }
+  }
+]

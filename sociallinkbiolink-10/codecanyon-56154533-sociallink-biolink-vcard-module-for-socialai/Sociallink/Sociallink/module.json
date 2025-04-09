@@ -1,0 +1,69 @@
+{
+  "name": "Sociallink",
+  "alias": "sociallink",
+  "description": "",
+  "module_type": "Features",
+  "modules_core_name": "sociallink",
+  "version": 1,
+  "keywords": [],
+  "priority": 0,
+  "providers": [
+    "Modules\\Sociallink\\App\\Providers\\SocialLinkServiceProvider"
+  ],
+  "files": [],
+  "menu": [
+    {
+      "menu_type": "admin",
+      "id": "m3n43x7o5",
+      "heading": "Social Links",
+      "order": 4,
+      "deletable": false,
+      "module": "sociallink",
+      "links": [
+        {
+          "id": "3v4o5b2",
+          "icon": "material-symbols:deployed-code-account-outline-sharp",
+          "text": "Social Profiles",
+          "href": "admin.sociallink.profile.index",
+          "target": "_self",
+          "deletable": false
+        },
+        {
+          "id": "x3x4o5b2",
+          "icon": "mdi:widgets-outline",
+          "text": "Social Links",
+          "href": "admin.sociallink.linktree.index",
+          "target": "_self",
+          "deletable": false
+        },
+        {
+          "id": "m6x32",
+          "icon": "mdi:account-hard-hat",
+          "text": "Professions",
+          "href": "admin.sociallink.profession.index",
+          "target": "_self",
+          "deletable": false
+        }
+      ]
+    },
+    {
+      "menu_type": "user",
+      "id": "mx4fxw85",
+      "heading": "Social Links",
+      "order": 2,
+      "deletable": false,
+      "module": "sociallink",
+      "links": [
+        {
+          "id": "m6mx4o5b2",
+          "icon": "bx:cog",
+          "text": "Social Links",
+          "href": "user.sociallink.profile.index",
+          "target": "_self",
+          "deletable": false
+        }
+      ]
+    }
+  ],
+  "module_key": ""
+}

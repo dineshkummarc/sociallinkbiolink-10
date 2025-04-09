@@ -1,0 +1,67 @@
+[
+  {
+    "id": "instagram",
+    "name": "Instagram",
+    "icon": "bxl-instagram"
+  },
+  {
+    "id": "twitter",
+    "name": "Twitter",
+    "icon": "bxl-twitter"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "icon": "bxl-linkedin-square"
+  },
+  {
+    "id": "github",
+    "name": "GitHub",
+    "icon": "bxl-github"
+  },
+  {
+    "id": "facebook",
+    "name": "Facebook",
+    "icon": "bxl-facebook-circle"
+  },
+  {
+    "id": "telegram",
+    "name": "Telegram",
+    "icon": "bxl-telegram"
+  },
+  {
+    "id": "discord",
+    "name": "Discord",
+    "icon": "bxl-discord"
+  },
+  {
+    "id": "tiktok",
+    "name": "TikTok",
+    "icon": "bxl-tiktok"
+  },
+  {
+    "id": "youtube",
+    "name": "YouTube",
+    "icon": "bxl-youtube"
+  },
+  {
+    "id": "pinterest",
+    "name": "Pinterest",
+    "icon": "bxl-pinterest"
+  },
+  {
+    "id": "snapchat",
+    "name": "Snapchat",
+    "icon": "bxl-snapchat"
+  },
+  {
+    "id": "twitch",
+    "name": "Twitch",
+    "icon": "bxl-twitch"
+  },
+  {
+    "id": "website",
+    "name": "Website",
+    "icon": "bx-link"
+  }
+]
